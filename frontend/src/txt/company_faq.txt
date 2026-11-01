@@ -1,0 +1,16 @@
+Company Name: Industry Chatbot
+
+Working Hours:
+Monday-Friday: 9 AM to 6 PM
+
+Support Email:
+support@industrychatbot.com
+
+Refund Policy:
+Customers may request a refund within 30 days of purchase.
+
+Services:
+AI Chatbot Development
+RAG Implementation
+LLM Integration
+Customer Support Automation
